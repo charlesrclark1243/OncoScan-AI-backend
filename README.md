@@ -20,7 +20,7 @@ For the sample (testing) data, I combined the "Brain Tumor Retrieval Image Data"
 
 ## Where's the Rest?
 
-The rest of OncoScan AI's documentation can be found [here](https://github.gatech.edu/cclark339/OncoScan-AI) in the frontend repo's README file.
+The rest of OncoScan AI's documentation can be found [here](https://github.com/charlesrclark1243/OncoScan-AI) in the frontend repo's README file.
 
 ## References
 1. Z. Kira et al. (2024). Georgia Institute of Technology, CS7643: Deep Learning.*
