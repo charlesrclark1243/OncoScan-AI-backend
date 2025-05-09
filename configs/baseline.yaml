@@ -1,0 +1,17 @@
+init:
+  model: 'BaselineModel'
+  optimizer: 'Adam'
+  batch_size: 8
+  epochs: 10
+
+transforms:
+  img_size: 64
+
+hyperparams:
+  learning_rate: 0.0001
+  betas: [0.9, 0.999]
+  epsilon: 1.0e-8
+  weight_decay: 0
+  momentum: 0.0
+  nesterov: False
+
